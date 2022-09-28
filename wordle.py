@@ -10,7 +10,7 @@ the user is updated with their score for the game and the total overall score
 and are asked if they want to play again or not.'''
 
 '''This program consists of two main algorithms. Binary search algorithm is
-used to find guessed words in the dictionart. And linear search algortithm is
+used to find guessed words in the dictionary. And linear search algortithm is
 used in the computeClue function to find mathces in the guessed word string
 and the random word string.'''
 
