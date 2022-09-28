@@ -1,1 +1,2 @@
-# wordle
+# Wordle Game
+How to play
